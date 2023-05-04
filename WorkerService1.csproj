@@ -24,5 +24,5 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL.Design" Version="1.1.0" />
     <PackageReference Include="Serilog.AspNetCore" Version="3.4.0" />
     <PackageReference Include="Serilog.Sinks.File" Version="4.1.0" />
-  </ItemGroup>
+  </ItemGroup>     
 </Project>
